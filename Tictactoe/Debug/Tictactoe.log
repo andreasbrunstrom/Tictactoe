@@ -1,0 +1,3 @@
+﻿  tictactoe.cpp
+c:\users\andre\source\repos\tictactoe\tictactoe\tictactoe.cpp(177): warning C4715: 'TicTacToe::checkForWinner': not all control paths return a value
+  Tictactoe.vcxproj -> C:\Users\andre\source\repos\Tictactoe\Debug\Tictactoe.exe
